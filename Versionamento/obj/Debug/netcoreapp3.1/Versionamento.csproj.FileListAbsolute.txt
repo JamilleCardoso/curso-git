@@ -11,3 +11,16 @@ C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\Versionamento\obj\Deb
 C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.dll
 C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.pdb
 C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.genruntimeconfig.cache
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.exe
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.deps.json
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.runtimeconfig.json
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.runtimeconfig.dev.json
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.dll
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\bin\Debug\netcoreapp3.1\Versionamento.pdb
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.csprojAssemblyReference.cache
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.AssemblyInfoInputs.cache
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.AssemblyInfo.cs
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.csproj.CoreCompileInputs.cache
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.dll
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.pdb
+C:\Prodados\Cursos\C#\Projetos\Versionamento\Versionamento\obj\Debug\netcoreapp3.1\Versionamento.genruntimeconfig.cache
