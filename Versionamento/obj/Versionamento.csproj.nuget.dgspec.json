@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prodados\\Cursos\\C#\\Projetos\\Versionamento\\Versionamento\\Versionamento.csproj": {}
+    "C:\\Prodados\\Cursos\\C#\\Projetos\\curso-git\\Versionamento\\Versionamento.csproj": {}
   },
   "projects": {
-    "C:\\Prodados\\Cursos\\C#\\Projetos\\Versionamento\\Versionamento\\Versionamento.csproj": {
+    "C:\\Prodados\\Cursos\\C#\\Projetos\\curso-git\\Versionamento\\Versionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prodados\\Cursos\\C#\\Projetos\\Versionamento\\Versionamento\\Versionamento.csproj",
+        "projectUniqueName": "C:\\Prodados\\Cursos\\C#\\Projetos\\curso-git\\Versionamento\\Versionamento.csproj",
         "projectName": "Versionamento",
-        "projectPath": "C:\\Prodados\\Cursos\\C#\\Projetos\\Versionamento\\Versionamento\\Versionamento.csproj",
+        "projectPath": "C:\\Prodados\\Cursos\\C#\\Projetos\\curso-git\\Versionamento\\Versionamento.csproj",
         "packagesPath": "C:\\Users\\jamille\\.nuget\\packages\\",
-        "outputPath": "C:\\Prodados\\Cursos\\C#\\Projetos\\Versionamento\\Versionamento\\obj\\",
+        "outputPath": "C:\\Prodados\\Cursos\\C#\\Projetos\\curso-git\\Versionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamille\\AppData\\Roaming\\NuGet\\NuGet.Config",
